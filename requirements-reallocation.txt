@@ -1,0 +1,4 @@
+-r requirements-analysis.txt
+pyarrow==25.0.1
+overturemaps==1.0.2
+PyYAML==6.0.3
